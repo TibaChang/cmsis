@@ -11,6 +11,11 @@ Why we need this repositroy?
 ==============================
 When you would like to try [mini-arm-os](https://github.com/jserv/mini-arm-os).
 
+Directory naming strategy
+===========================
+- (vendor name) + (your device name)
+  - Ex:STM32 + f429disco = STM32f429disco
+
 More datails/porting
 ===========================
 See the [README in mini-arm-os](https://github.com/jserv/mini-arm-os/blob/master/README.md)
